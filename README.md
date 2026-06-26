@@ -37,6 +37,8 @@ Helps understand step-by-step stack manipulation.
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWljb2d3NnBrMWpldmVxZ2JuNHg0MWN0Z21iNTJteGN5Mmt0Y3ZwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JMO0yh1HZDXRDt2hZ5/giphy.gif" width="250"/>
 
+(Falta ordenar repos y ponerlos en publico jiji)
+
 ## Contact
 
 - 📧 rocio.hernandez.gu@gmail.com
