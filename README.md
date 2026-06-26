@@ -17,8 +17,8 @@ I primarily work with C and Python, while also exploring technologies like C++ a
 ![Python](https://img.shields.io/badge/Python-CDB4DB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-B5EAD7?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Mis Lenguajes más Usados
-![Top Langs](https://vercel.app)
+### Languages of my projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roherna&show_icons=true&locale=en&layout=compact&langs_count=10)](https://github.com/roherna)
 
 ## Featured projects
 
