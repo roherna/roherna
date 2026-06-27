@@ -13,12 +13,14 @@ I primarily work with C and Python, while also exploring technologies like C++ a
 
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-A7C7E7?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-F6EAC2?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-CDB4DB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-B5EAD7?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F7C6D9?style=for-the-badge&logo=github&logoColor=white)
 
-### Languages of my projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roherna&show_icons=true&locale=en&layout=compact&langs_count=10)](https://github.com/roherna)
+## Learning...
+
+![C++](https://img.shields.io/badge/C++-B5EAD7?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-B3D9FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Featured projects
 
